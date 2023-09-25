@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header .top-header {
+    background-color: black;
+    color: white;
+    height: 10px;
+    padding-right: 20px;
+}
+.top-header {
+   position: relative;
+   background-color: black;
+   color: white;
+   height: 20px;
+}
+
+.close {
+    width: 20px;
+    height: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.close img {
+    width: 30px;
+    color: white;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.p-1 {
+    text-align: center;
+    color: white;
+}
+.p-1 a {
+    margin: 15px;
+}
+header nav {
+    margin-top: 30px;
+    border: none;
+}
+.d-1 {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    background-color: white;
+    border: none;
+}
+.ul-1 {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    background-color: white;
+    color: black;
+    border: none;
+}
+
+.h-1 {
+    text-transform: uppercase;
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+    border: none;
+}
+.container-2 {
+    margin-top: 25px;
+    justify-content: space-between;
+    display: flex;
+    padding-left: 75px;
+}
+.ul-3 {
+    text-transform: uppercase;
+    font-size: 50px;
+    
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-right: 60px;
+    color: black;
+    background-color: white;
+    margin-top: 25px;
+
+}
+.frame-9 {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.casual-outfitts {
+    margin-left: 500px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.framess {
+    display: flex;
+}
+.fries {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.stylzzz {
+    display: flex;
+    margin-left: 15px;
+    justify-content: space-around;
+}
+.starxxx {
+    display: flex;
+    margin-left: 15px;
+    justify-content: space-around;
+}
+.dollars-signs {
+    display: flex;
+    margin-left: 15px;
+    justify-content: space-around;
+}
+.stay {
+    border: none;
+    padding: 15px 10px;
+    text-align: left;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.button {
+    margin-top: 50px;
+    height: 30px;
+    width: 60px;
+    border: none;
+    background-color: black;
+}
+.subscribe .enter {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 60px;
+    margin-left: 50px;
+}
+.frameee {
+    margin-top: 50px;
+    height: 30px;
+    width: 60px;
+    border: none;
+    background-color: white;
+}
